@@ -1,2 +1,2 @@
 # hello-world
-Okay,it's more difficult than I thought
+Okay,it's just a little more difficult than I thought
